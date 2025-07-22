@@ -8,6 +8,7 @@ wheels/
 uv.lock
 
 .env
+.idea/
 
 # Virtual environments
 .venv
